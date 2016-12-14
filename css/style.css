@@ -14,6 +14,7 @@
 
 p{
 	font-family: 'Lato', sans-serif;
+	font-size:18px;
 }
 
 .hoverproperty:hover {
@@ -45,9 +46,9 @@ p{
 	background-size: cover;
 }
 
+
 .headsection{
-	background: linear-gradient(141deg, rgba(79, 123, 156, 0.75) 0%, rgba(33, 150, 243, 0.53) 51%, rgba(187, 221, 225, 0.40) 75%);
-	height:100px;
+	background: linear-gradient(141deg, rgba(66,117,177,0.6) 0%, rgba(140,191,215,0.5) 51%, rgba(187, 221, 225, 0.40) 75%);
 	}
 
 .leftsection{
@@ -63,11 +64,46 @@ p{
 }
 
 h2, h3{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Aref Ruqaa', serif;
 }
 
 h1{
 	color:white;
 	font-family: 'Lora', serif;
 	font-size: 50px;
+}
+
+.albumcentre{
+	height:452px;
+	padding-top: 15px;
+	margin-bottom: 30px;
+	background-color:rgba(255, 255, 255, 0.6);
+}
+
+.albumcentrenorway{
+	height:593px;
+	padding-top: 15px;
+	margin-bottom: 30px;
+	background-color:rgba(255, 255, 255, 0.6);
+}
+
+.albumtop{
+	padding-bottom: 30px;
+}
+
+.picturesection{
+	background-color:rgba(215, 215, 215, 0);
+}
+
+.picturesize{
+	height:585px;
+}
+
+.carouseldate{
+	color:white;
+	font-family: 'Aref Ruqaa', serif;
+}
+
+.profiletext{
+	font-size: 14px;
 }
